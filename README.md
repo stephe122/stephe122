@@ -25,7 +25,7 @@
 A GPS-based Progressive Web Application built to help students and visitors 
 navigate the MAHSA University campus in real time.
 
-- 🔗 [Live Demo](https://mahsa-smart-campus-navig81bae.web.app/)
+- 🔗 [Live Demo](https://mahsa-smart-campus-navig-81bae.web.app/)
 - 📁 [Repository](https://github.com/stephe122/smart-campus-pwa)
 
 ---
