@@ -49,6 +49,10 @@ real-time cart system, and scroll-driven animations.
 - 🔗 Live Demo *(Coming Soon)*
 - 📁 Repository *(Coming Soon — currently in active development)*
 
+
+https://github.com/user-attachments/assets/88c2dafc-36c4-4939-94fc-20faf65c324b
+
+
 ---
 
 ## 📫 Contact Me
